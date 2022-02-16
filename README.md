@@ -28,10 +28,15 @@
 
 ### My stats :
 
+<a href="https://github.com/Kooppy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kooppy&theme=calm&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/Kooppy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kooppy&theme=calm&layout=compact" />
+</a>
+
 ![Kooppy GitHub stats](https://github-readme-stats.vercel.app/api?username=Kooppy&theme=calm&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kooppy&theme=calm&layout=compact)
 
-
-[linkedin]: https://www.linkedin.com/in/
 
 
