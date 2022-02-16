@@ -28,10 +28,10 @@
 
 ### My stats :
 
-<a href="https://github.com/Kooppy" class="d-flex justify-content-center">
+<a href="https://github.com/Kooppy" style="display: flex !important; justify-content: center;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kooppy&theme=calm&show_icons=true&include_all_commits=true&hide_border=true" />
 </a>
-<a href="https://github.com/Kooppy" class="d-flex justify-content-center">
+<a href="https://github.com/Kooppy" style="display: flex !important; justify-content: center;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kooppy&theme=calm&layout=compact&hide_border=true" />
 </a>
 
