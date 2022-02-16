@@ -29,14 +29,11 @@
 ### My stats :
 
 <a href="https://github.com/Kooppy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kooppy&theme=calm&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kooppy&theme=calm&show_icons=true&include_all_commits=true&hide_border=true" />
 </a>
 <a href="https://github.com/Kooppy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kooppy&theme=calm&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kooppy&theme=calm&layout=compact&hide_border=true" />
 </a>
-
-![Kooppy GitHub stats](https://github-readme-stats.vercel.app/api?username=Kooppy&theme=calm&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kooppy&theme=calm&layout=compact)
 
 
 
