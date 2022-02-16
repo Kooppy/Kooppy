@@ -6,23 +6,14 @@
 
 ### Network :
 
-    
-    <table> 
-        <thread>
-            <tr>
-                <th>
-                    <a href="https://www.linkedin.com/in/melvin-mezerette-638a02129/"   target="_blank">
-                        <img align="center" src="https://img.shields.io/badge/linkedin-%231572B6.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-                    </a>  
-                </th>
-                <th>
-                    <a href="https://www.linkedin.com/in/melvin-mezerette-638a02129/"   target="_blank">
-                        <img align="center" src="https://img.shields.io/badge/linkedin-%231572B6.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-                    </a>
-                </th>
-            </tr>
-        </thread>
-    </table>
+<a href="https://github.com/Kooppy">
+    <img align="center" src="https://img.shields.io/badge/Kooppy-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>  
+
+<a href="https://www.linkedin.com/in/melvin-mezerette-638a02129/">
+    <img align="center" src="https://img.shields.io/badge/Melvin Mezerette-%231572B6.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
       
 
 
