@@ -8,21 +8,21 @@
 <center>
     
     <table> 
-  <thread>
-    <tr>
-      <th>
-<a href="https://www.linkedin.com/in/melvin-mezerette-638a02129/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%231572B6.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>  
-      </th>
-      <th>
-        <a href="https://github.com/Kooppy">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kooppy&theme=calm&layout=compact&hide_border=true" />
-        </a>
-      </th>
-    </tr>
-  </thread>
-</table>
+        <thread>
+            <tr>
+                <th>
+                    <a href="https://www.linkedin.com/in/melvin-mezerette-638a02129/"   target="_blank">
+                        <img align="center" src="https://img.shields.io/badge/linkedin-%231572B6.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+                    </a>  
+                </th>
+                <th>
+                    <a href="https://www.linkedin.com/in/melvin-mezerette-638a02129/"   target="_blank">
+                        <img align="center" src="https://img.shields.io/badge/linkedin-%231572B6.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+                    </a>
+                </th>
+            </tr>
+        </thread>
+    </table>
       
 
 
