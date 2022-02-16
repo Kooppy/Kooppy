@@ -81,51 +81,20 @@
           </a>
         </p>
       </th>
+      <th>
+        <p align="center">
+          <a href="https://github.com/Kooppy">
+            <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+          </a>
+        </p>
+      </th>
     </tr>
   </thread>
 </table>
 
 
-
-
-
-<table> 
-  <thread>
-    <tr>
-      <p align="center">
-        <th>
-          <a href="https://github.com/Kooppy">
-            <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-          </a>
-        </th>
-        <th>
-          <a href="https://github.com/Kooppy">
-            <img src="https://img.shields.io/badge/workbench-%2300f.svg?style=for-the-badge&logo=workbench&logoColor=white" />
-          </a>
-        </th>
-      </p>
-    </tr>
-        <tr>
-      <p align="center">
-        <th>
-          <a href="https://github.com/Kooppy">
-            <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-          </a>
-        </th>
-        <th>
-          <a href="https://github.com/Kooppy">
-            <img src="https://img.shields.io/badge/workbench-%2300f.svg?style=for-the-badge&logo=workbench&logoColor=white" />
-          </a>
-        </th>
-      </p>
-    </tr>
-  </thread>
-</table>
-
-
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 
 
