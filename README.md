@@ -32,7 +32,7 @@
     <tr>
       <th>
         <a href="https://github.com/Kooppy">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?    username=Kooppy&theme=calm&show_icons=true&include_all_commits=true&hide_border=true" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kooppy&theme=calm&show_icons=true&include_all_commits=true&hide_border=true" />
         </a>
       </th>
       <th>
