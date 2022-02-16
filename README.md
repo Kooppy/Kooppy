@@ -29,7 +29,6 @@
 ### My stats :
 
 ![Kooppy GitHub stats](https://github-readme-stats.vercel.app/api?username=Kooppy&theme=calm&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kooppy&theme=calm&layout=compact)
 
 
