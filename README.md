@@ -92,12 +92,6 @@
   </thread>
 </table>
 
-
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-
-
-
-
 <br />
 <br />
 
