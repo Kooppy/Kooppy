@@ -9,8 +9,7 @@
 <a href="https://www.linkedin.com/in/melvin-mezerette-638a02129/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%231572B6.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  
-[![github](https://img.shields.io/badge/Kooppy-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kooppy)
-[![linkedin](https://img.shields.io/badge/linkedin-%231572B6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melvin-mezerette-638a02129/)
+
 
 
 </center>
