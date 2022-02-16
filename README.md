@@ -28,7 +28,7 @@
 
 ### My stats :
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kooppy&layout=compact)](https://github.com/Kooppy/)
 
 
 [linkedin]: https://www.linkedin.com/in/
