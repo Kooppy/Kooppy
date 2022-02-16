@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hey, I'm Kooppy 👋 
 
 - 🌱 I'm currently in a formation
 
