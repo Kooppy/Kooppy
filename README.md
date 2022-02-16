@@ -5,7 +5,7 @@
 <br />
 
 ### Network :
-<center>
+
     
     <table> 
         <thread>
@@ -25,9 +25,6 @@
     </table>
       
 
-
-
-</center>
 
 ### Languages and Tools:
 
