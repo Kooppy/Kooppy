@@ -1,6 +1,6 @@
 ### Hey, I'm Kooppy 👋 
 
-- 🌱 I'm currently in a formation
+- 🌱 I'm currently to learn ReactJS and framework MUI
 
 <br />
 
